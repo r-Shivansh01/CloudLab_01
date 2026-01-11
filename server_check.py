@@ -12,4 +12,4 @@ def check_server(url):
 
 check_server("https://www.google.com")
 print("Running from Disk D! update")
-print("The Project is in progress..")
+print("The Project is in progress....")
