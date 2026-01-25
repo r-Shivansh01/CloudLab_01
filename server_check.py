@@ -11,4 +11,4 @@ def check_server(url):
         print(f"Critical: Could not connect to {url}")
 
 check_server("https://www.google.com")
-print("The Project is in progress...")
+print("The Project is in progress hehehe...")
